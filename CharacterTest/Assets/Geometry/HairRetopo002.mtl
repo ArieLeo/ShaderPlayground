@@ -1,0 +1,36 @@
+# MTL written from C:\Users\panta\Desktop\Mass Effect\CharacterTest\Assets\Geometry\HairRetopo002.obj
+newmtl Layer0
+Kd 0.8 0.13683 0.506837
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl Layer1
+Kd 0.349043 0.705526 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl Layer2
+Kd 0.241549 0.8 0.282196
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl Layer3
+Kd 0.434601 0.3841 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl Layer4
+Kd 0.8 0.687277 0.148075
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
